@@ -4,6 +4,8 @@ venv/
 ENV/
 .venv/
 
+HacksVenv/
+
 __pycache__/
 *.py[cod]
 *.pyc
