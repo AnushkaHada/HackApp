@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Name,Current_Skills,Wanted_skills,Age,College,Attendance
 Andre Agassi,"['Unicycling', 'Knowledge/word games']","['Radio-controlled model playing', 'Auto detailing', 'Meteorology', 'Mathematics']",78,Santa Cruz County Regional Occupation Program,phd
 Andy Warhol,"['Auto racing', 'Surfing', 'Tennis polo']",['Rock balancing'],66,Cabrillo College,phd
@@ -422,3 +423,429 @@ Jesse Ventura,"['Dancing', 'Railway modelling']","['Board sports', 'Pickleball',
 James Meredith,"['Racquetball', 'BMX', 'Poker', 'Go', 'Frisbee']","['Herping', 'Table tennis', 'Flying model planes']",59,"CSUMB - California State University, Monterey Bay",undergraduate
 Buzz Aldrin,"['Fusilately\xa0(phonecard collecting)', 'Badminton', 'People-watching', 'Botany', 'Snorkeling']","['Racquetball', 'Sport stacking', 'Snorkeling', 'Boxing', 'Geocaching']",80,Cabrillo College,masters
 Stephen F. Austin,['Rail transport modelling'],"['Jukskei', 'Letterboxing']",49,Santa Cruz County Regional Occupation Program,masters
+=======
+Name,Current_Skills,Wanted_skills,Age
+Andre Agassi,"['Sculling\xa0or\xa0rowing', 'Renaissance fair', 'Tennis', 'Record collecting', 'Flag football']",['Entrepreneurship'],54
+Andy Warhol,['Record collecting'],"['Mycology', 'Mushroom hunting/mycology', 'Horseback riding']",48
+Amos Bronson Alcott,"['Cribbage', 'Videography', 'Ghost hunting', 'Record collecting']","['Magic', 'Table football', 'Surfing']",26
+Andrew Johnson,"['Roundnet', 'Fossil hunting', 'Baton twirling']","['Rafting', 'Water sports', 'VR gaming', 'Entrepreneurship']",50
+Arnold Schwarzenegger,['Model United Nations'],['Automobilism'],66
+Ani DiFranco,"['Farming', 'Hobby tunneling', 'Bridge', 'Marbles', 'Composting']",['Guerrilla gardening'],64
+Anthony Hopkins,"['Ghost hunting', 'Surfing', 'Tai chi', 'Science and technology studies', 'Kitesurfing']","['Mini Golf', 'Field hockey']",49
+Anaïs Nin,"['Marching band', 'Skimboarding', 'Wikipedia editing', 'Crystals']","['Stone skipping', 'Fitness', 'Airsoft']",97
+Adrian Lamo,"['Fingerprint collecting', 'Aerospace', 'Boxing', 'Mycology']","['Rugby', 'Surfing', 'Leaves']",66
+Al Capp,"['Jukskei', 'Car tuning', 'Figure Skating']","['Esports', 'Freestyle football', 'Botany', 'Mountain biking', 'Foraging']",65
+Arthur Jensen,['Gardening'],"['Jukskei', 'Dog sport']",78
+Albert Brooks,['Surfing'],"['Archaeology', 'Sports memorabilia']",21
+Arlo Guthrie,"['Croquet', 'Trainspotting', 'Slot car racing', 'Die-cast toy']","['Record collecting', 'Beach volleyball', 'Flag football', 'Australian rules football', 'Foraging']",40
+Bill Gates,"['Eating', 'Airsoft']","['Table tennis', 'Tea bag collecting', 'Cribbage', 'Herbalism', 'Slot car racing']",80
+Bing Crosby,"['Jukskei', 'VR gaming', 'Herbalism', 'Sculling\xa0or\xa0rowing', 'Mountaineering']",['Gymnastics'],44
+Blythe Danner,"['Car tuning', 'Lacrosse', 'Beauty pageants', 'Jukskei', 'Pickleball']","['Shuffleboard', 'Rugby league football', 'Stone collecting', 'Audiophile', 'Amusement park visiting']",22
+George Herman Ruth,"['Running', 'Pinball', 'Fitness', 'Volleyball']","['Axe throwing', 'Fingerprint collecting']",64
+Berry Berenson,"['Record collecting', 'Book folding', 'Ghost hunting', 'Video gaming']","['Herping', 'Hobby tunneling', 'Coin collecting', 'Paintball', 'Magnet fishing']",78
+Buddy Holly,"['Railway studies', 'Hiking/backpacking']",['Bridge'],83
+Burt Lancaster,['Figure Skating'],"['Groundhopping', 'Fossil hunting', 'Leaves', 'Sociology', 'Antiquing']",68
+Allan Huber Selig,['Fossil hunting'],['Ephemera collecting'],87
+Billy Crystal,"['Climbing', 'Snorkeling', 'Guerrilla gardening', 'Ant farming', 'Geocaching']","['Stuffed toy collecting', 'Triathlon', 'Knowledge/word games', 'Sports memorabilia', 'Unicycling']",27
+Bruce Campbell,"['Butterfly watching', 'Surfing', 'Table football', 'Herbalism']","['Mountain biking', 'Tour skating', 'Motor sports', 'Color guard']",42
+Barry Goldwater,"['Sculling\xa0or\xa0rowing', 'Sculling\xa0or\xa0rowing', 'Railway studies', 'Mushroom hunting/mycology', 'Unicycling']","['Beauty pageants', 'Automobilism']",83
+Bill Bixby,"['Dancing', 'Reading', 'Water sports', 'Ice hockey', 'Chemistry']","['Ticket collecting', 'Rock tumbling', 'Geocaching']",48
+Bela Lugosi,"['Knife collecting', 'Magnet fishing', 'Running', 'Sculling\xa0or\xa0rowing', 'Shortwave listening']","['Element collecting', 'Slot car racing', 'Field hockey', 'Roller derby', 'Skimboarding']",44
+Bill Bryson,"['Parkour', 'Croquet', 'Car riding', 'Model United Nations', 'Sun bathing']","['Rock painting', 'Art collecting']",68
+Charlize Theron,"['Vintage cars', 'Hooping', 'Paintball']","['Rugby', 'Mountain biking', 'Archaeology', 'Handball']",55
+Courtney Love,['Horseback riding'],['Vintage cars'],58
+Cecil B. DeMille,"['Dolls', 'Mountain biking', 'Field hockey', 'Wrestling']","['Mountain biking', 'Mycology', 'Graffiti', 'Ephemera collecting', 'Badminton']",53
+Carl Sagan,"['Botany', 'Mountain biking', 'People-watching', 'Tourism', 'Road biking']","['Insect collecting', 'Hooping', 'Australian rules football']",86
+Cecilia Beaux,"['Railway journeys', 'Gymnastics', 'BMX', 'Figure Skating']",['Squash'],53
+Charles Evans Hughes,"['engineering', 'Sea glass collecting']",['Table football'],65
+Charles Mingus,['Mushroom hunting/mycology'],['Triathlon'],38
+Drew Barrymore,"['Storm chasing', 'Crystals', 'Fishkeeping']","['Magic', 'Tea bag collecting', 'Croquet', 'Art collecting', 'Table football']",35
+David Wark Griffith,"['Ice hockey', 'Debate']","['Poker', 'Railway journeys']",72
+David Lynch,"['Tai chi', 'Geocaching']","['Mushroom hunting/mycology', 'Frisbee', 'Archaeology']",92
+Dalton Trumbo,"['Stone collecting', 'Frisbee', 'Model United Nations']","['Mountain biking', 'Tea bag collecting', 'Car tuning', 'Hiking/backpacking']",80
+David D. Friedman,"['Butterfly watching', 'Baton twirling', 'Flag football', 'Cheerleading']","['Videography', 'Book collecting', 'Flower growing', 'Sports science', 'Bodybuilding']",74
+Douglas Engelbart,"['Rughooking', 'Squash', 'Mountaineering', 'Sculling\xa0or\xa0rowing']","['Mycology', 'Microscopy', 'Fossil hunting']",96
+Dave Grohl,['Ant farming'],['Frisbee'],46
+Dwight D. Eisenhower,['Car tuning'],"['Boxing', 'Insect collecting', 'Ant-keeping', 'Die-cast toy']",94
+Doris Day,"['Climbing', 'Cricket', 'Badminton', 'Surfing']","['Storm chasing', 'Noodling', 'Sport stacking']",55
+David Letterman,"['Volleyball', 'Insect collecting']","['Beekeeping', 'Flying', 'Running', 'Roller derby']",80
+Delroy Lindo,"['Jukskei', 'Rafting']","['Art collecting', 'Films']",70
+Danny Elfman,['Shuffleboard'],"['Book folding', 'Rugby', 'Ghost hunting', 'Business']",73
+Dirk Benedict,['Sports memorabilia'],"['Videography', 'Digital hoarding', 'Knife collecting', 'Walking', 'Sun bathing']",19
+Douglas Hofstadter,"['Aircraft spotting', 'Auto racing', 'Scuba diving', 'Fusilately\xa0(phonecard collecting)', 'Geocaching']","['Stone skipping', 'Pickleball', 'Radio-controlled model playing', 'Foraging']",22
+Dennis Hopper,['Hiking/backpacking'],"['Frisbee', 'Hobby tunneling', 'Sports science', 'Field hockey']",84
+Danny Kaye,"['Mountain biking', 'Volleyball', 'Cricket']","['Volleyball', 'Model United Nations']",80
+Dale Chihuly,"['Bridge', 'Unicycling']",['Mountain biking'],78
+Edward Sapir,"['Microscopy', 'Ephemera collecting', 'Science and technology studies']","['Record collecting', 'Geocaching', 'Triathlon', 'Field hockey', 'Ballet dancing']",38
+Ethan Allen,['Mountaineering'],"['Hiking/backpacking', 'Croquet', 'Lomography', 'Knowledge/word games', 'Backgammon']",65
+Edgar Rice Burroughs,['Fishing'],['Speedcubing'],52
+Eugene Wigner,['People-watching'],"['Record collecting', 'Axe throwing', 'Aircraft spotting']",86
+Elias Boudinot,['Volleyball'],"['Roller derby', 'Snowmobiling', 'Comic book collecting', 'Ant farming', 'Geocaching']",32
+Eve Arden,"['Audiophile', 'Kayaking']","['People-watching', 'Rugby', 'Weightlifting']",89
+Elyssa Davalos,"['Art collecting', 'Fitness', 'Trainspotting']","['Fusilately\xa0(phonecard collecting)', 'Sports science', 'Knife collecting', 'Ice hockey']",92
+Elie Wiesel,"['Chemistry', 'Laser tag', 'Handball', 'Road biking', 'Fishing']","['Fitness', 'Animation', 'Biology']",81
+Frank Zappa,"['Climbing', 'Boxing', 'Beekeeping', 'Qigong']","['Digital hoarding', 'Cycling', 'Butterfly watching', 'Crystals', 'Mountaineering']",66
+Felix Bloch,"['Jogging', 'Bridge', 'Esports']","['Meteorology', 'BMX', 'Sculling\xa0or\xa0rowing', 'Cheerleading']",90
+Fay Wray,"['Qigong', 'Fishkeeping', 'Crystals']","['Fingerprint collecting', 'Taekwondo', 'Iceboat racing']",87
+Fiorello La Guardia,"['Road biking', 'Skiing', 'Triathlon', 'People-watching']","['Fishkeeping', 'Dancing']",56
+Fred Savage,"['Comic book collecting', 'Art collecting', 'Photography']",['Roller derby'],41
+Fritz Lang,"['Beach volleyball', 'Powerboat racing', 'Knowledge/word games', 'Radio-controlled model playing', 'Renaissance fair']","['Fishing', 'Water sports', 'Blacksmithing', 'Running']",42
+George Lucas,"['Dog sport', 'Horsemanship', 'City trip']","['Scuba diving', 'Hobby tunneling', 'Aircraft spotting', 'Slot car racing']",100
+Gene Kelly,"['Skiing', 'Roller skating', 'Sea glass collecting', 'Frisbee', 'Vintage cars']","['Composting', 'Water sports', 'Jukskei', 'Running']",70
+Garth Brooks,"['Metal detecting', 'Fingerprint collecting']","['Netball', 'Fishkeeping']",81
+George R. R. Martin,"['Wikipedia editing', 'Backgammon', 'Meteorology', 'Eating', 'Swimming']","['Meditation', 'Shoes', 'Graffiti']",41
+Garry Trudeau,"['Tennis', 'Exhibition drill', 'Kitesurfing', 'Climbing']","['Tai chi', 'Speedcubing', 'Field hockey', 'Beauty pageants', 'Groundhopping']",52
+Grover Cleveland,['Record collecting'],"['Skateboarding', 'Meteorology', 'Axe throwing', 'Horseshoes']",22
+George Peppard,"['Wikipedia editing', 'Biology', 'Judo']","['Sculling\xa0or\xa0rowing', 'Hiking/backpacking', 'Mountaineering', 'Jukskei']",88
+Gene Hackman,"['Volleyball', 'Radio-controlled model playing', 'Rughooking', 'Fitness']","['Lomography', 'Freestyle football', 'Baton twirling']",31
+Grace Hopper,"['Lacrosse', 'Science and technology studies', 'Knife collecting', 'Boxing', 'Art collecting']","['Canoeing', 'Snowmobiling', 'Debate']",24
+Gary Kildall,"['Cooking', 'Archaeology', 'Beach volleyball', 'Ant farming', 'Laser tag']","['Snowmobiling', 'Aircraft spotting', 'Horseback riding', 'Films', 'Flower growing']",45
+Gia Carangi,"['Table football', 'Slacklining', 'Skiing', 'Pickleball', 'Entrepreneurship']","['Speedcubing', 'Crystals']",18
+George Cukor,['Meteorology'],"['Noodling', 'Basketball']",34
+Gavin MacLeod,"['Cornhole', 'Table tennis', 'Snorkeling']",['Climbing'],88
+Gary Gygax,"['Climbing', 'Axe throwing']",['Motor sports'],77
+George Pólya,"['Qigong', 'Archaeology']","['Flag football', 'Railway modelling']",29
+George S. Kaufman,['Butterfly watching'],"['Handball', 'Cornhole', 'Paintball', 'Rugby', 'Running']",58
+George Gershwin,"['Art collecting', 'Flag football']","['BASE jumping', 'Reading']",25
+George Dantzig,"['Jukskei', 'Jujitsu', 'Skimboarding']","['Axe throwing', 'Roller skating', 'Laser tag', 'Foraging', 'Video gaming']",60
+Henry Ford,"['Bodybuilding', 'Herping', 'Fossil hunting']","['Ultimate frisbee', 'Cycling', 'Martial arts', 'Exhibition drill']",80
+Hank Greenberg,['Rugby'],"['Powerlifting', 'Mushroom hunting/mycology', 'Reading']",54
+Hugo Gernsback,"['Disc golf', 'Shooting sports', 'Caving', 'Climbing']","['Figure skating', 'Gongoozling']",81
+Herbert Hoover,['Scuba diving'],"['Stone skipping', 'Fishing', 'Railway studies', 'Slacklining', 'Record collecting']",67
+Halle Berry,['Knife collecting'],"['Freestyle football', 'Qigong', 'Ultimate frisbee', 'Videography', 'Climbing']",19
+Harry Connick Jr.,"['Australian rules football', 'Amusement park visiting', 'Fishing', 'Roundnet', 'Sculling\xa0or\xa0rowing']","['Table tennis playing', 'Knowledge/word games']",29
+Henry Rollins,['Dancing'],"['Archaeology', 'Flag football', 'Tennis']",77
+Humphrey Bogart,"['Astronomy', 'Rugby', 'Guerrilla gardening', 'Color guard', 'Lacrosse']","['Fossil hunting', 'Water sports', 'Animation', 'Insect collecting']",94
+Howard Hughes,"['Lacrosse', 'Meditation', 'Horseback riding', 'Kitesurfing']","['Wikipedia editing', 'Business']",27
+Herbert A. Simon,"['Skimboarding', 'Microscopy', 'Public transport riding']","['Sculling\xa0or\xa0rowing', 'Skimboarding']",90
+Helen Keller,['Skiing'],['Flag football'],35
+Hugh Hefner,"['Debate', 'Hobby tunneling']",['Race walking'],20
+Henry Middleton,"['Stone skipping', 'Railway modelling', 'Lacrosse', 'Wikipedia editing', 'Axe throwing']","['Backgammon', 'Axe throwing', 'Canoeing', 'Volleyball', 'Boxing']",57
+Harry Shearer,"['Leaves', 'Squash']","['Tour skating', 'Rugby', 'Cooking', 'Shoes', 'Squash']",49
+Isaac Asimov,"['Judo', 'Amusement park visiting', 'Lotology\xa0(lottery ticket collecting)', 'Wrestling', 'Herping']","['Kayaking', 'Volleyball']",98
+Isaac Klein,"['Chemistry', 'Figure Skating', 'Aircraft spotting', 'Finance', 'Bodybuilding']","['Exhibition drill', 'Audiophile']",27
+Jello Biafra,"['Blacksmithing', 'Climbing']","['Slot car racing', 'Blacksmithing', 'Eating', 'People-watching', 'Auto racing']",98
+Johnny Unitas,"['Chemistry', 'Fingerprint collecting', 'Mushroom hunting/mycology', 'Crystals', 'Parkour']","['Shortwave listening', 'Hiking/backpacking', 'Animation']",51
+John Quincy Adams,"['Croquet', 'Science and technology studies', 'Flag football', 'Hobby horsing']","['Table tennis playing', 'Leaves', 'Table football', 'Scuba diving']",29
+Jim Jarmusch,"['Video gaming', 'Auto racing', 'Animation']","['Roller skating', 'Cribbage', 'Gardening', 'Volleyball', 'Stone skipping']",30
+James Brown,"['Wrestling', 'Rugby', 'Skateboarding', 'Video gaming']","['Marching band', 'Science and technology studies', 'Ant-keeping', 'Boxing', 'Video gaming']",54
+Joseph Schumpeter,"['Horseback riding', 'Cooking', 'Flag football', 'Speed skating', 'Lacrosse']","['Fishkeeping', 'Rugby league football', 'Gardening']",54
+Jack Kerouac,"['Sun bathing', 'Frisbee', 'Metal detecting', 'Basketball', 'Knife collecting']","['Field hockey', 'Reading', 'Comic book collecting']",20
+Jean-Michel Basquiat,"['Animation', 'Car tuning', 'Science and technology studies']",['Hobby tunneling'],44
+John Wilkes Booth,"['Ephemera collecting', 'Photography', 'Fishing', 'Model aircraft']","['Aerospace', 'Lacrosse', 'Meditation', 'Sports memorabilia']",51
+Dan Quayle,"['Climbing', 'Aerospace']","['Beach volleyball', 'Lacrosse']",84
+John von Neumann,"['Laser tag', 'Knife collecting', 'Table tennis playing', 'Graffiti']","['Hiking/backpacking', 'Volleyball', 'Slacklining', 'Die-cast toy']",79
+James K. Polk,"['Ant-keeping', 'Roundnet', 'Tennis']","['Metal detecting', 'People-watching', 'Eating', 'Vacation']",99
+Jimmy Carter,"['Snorkeling', 'Graffiti', 'engineering', 'Tennis']","['Meteorology', 'Metal detecting', 'Lacrosse', 'Paintball']",73
+John Edgar Hoover,"['Noodling', 'Science and technology studies', 'Tour skating']","['Slacklining', 'Ultimate frisbee', 'Sea glass collecting', 'Scuba diving']",97
+James Cagney,"['Shuffleboard', 'Backgammon', 'Fossil hunting', 'Sports science']","['Hobby tunneling', 'Dancing', 'Sculling\xa0or\xa0rowing', 'Shortwave listening']",22
+John Hagelin,"['Water sports', 'Fossil hunting', 'Lacrosse', 'Walking']","['Insect collecting', 'Croquet', 'Triathlon']",90
+Janet Reno,"['Jukskei', 'Noodling', 'Book collecting', 'Lacrosse']","['Mycology', 'Die-cast toy', 'Fossicking']",50
+Jefferson Davis,"['Sand art', 'Cribbage', 'Sculling\xa0or\xa0rowing']","['Rugby', 'Badminton']",30
+James G. Blaine,"['Science and technology studies', 'Stone skipping', 'Wrestling', 'Car tuning', 'Climbing']","['Netball', 'Road biking', 'Exhibition drill', 'Wikipedia editing', 'Stone skipping']",96
+Jeffrey Dahmer,"['Die-cast toy', 'Scuba diving', 'Flying', 'Swimming']","['Field hockey', 'Water sports', 'Audiophile']",50
+Jerome Kern,"['Farming', 'Element collecting', 'Sculling\xa0or\xa0rowing']","['Insect collecting', 'Backgammon', 'Martial arts', 'Entrepreneurship']",80
+James Stewart,"['Roundnet', 'Sea glass collecting', 'Railway modelling']",['Skimboarding'],65
+Jackson Pollock,['Slot car racing'],"['Climbing', 'Gold prospecting', 'Horseback riding', 'Finance', 'Gardening']",65
+Joseph Campbell,"['Weightlifting', 'Ghost hunting', 'Wrestling', 'Comic book collecting', 'Auto racing']","['Water sports', 'Herping', 'Book folding', 'Carrier pigeons']",53
+John James Audubon,"['Snowmobiling', 'Radio-controlled model playing', 'Knowledge/word games', 'Shortwave listening', 'Ghost hunting']","['Backpacking', 'Snowmobiling', 'Backgammon', 'Coin collecting']",36
+John Frankenheimer,"['Photography', 'Ephemera collecting', 'Canoeing', 'Jukskei']","['Coin collecting', 'Blacksmithing', 'Sport stacking', 'Ephemera collecting', 'Knife throwing']",33
+John Belushi,"['Trapshooting', 'Dancing']","['Polo', 'Sun bathing']",99
+John Ashcroft,['Beach volleyball'],"['Skiing', 'Cycling', 'Beach volleyball', 'Jukskei', 'Fishkeeping']",67
+John Sutter,"['Eating', 'Skimboarding', 'Meteorology']","['Railway studies', 'Sports memorabilia', 'Bridge', 'Lacrosse', 'Ghost hunting']",72
+Jon Voight,"['Backgammon', 'Horseshoes', 'Insect collecting']","['Railway studies', 'Biology', 'Lomography', 'Foraging']",20
+Jack Kirby,"['Baton twirling', 'Beauty pageants', 'Esports']",['Snowmobiling'],53
+Kurt Gödel,['Science and technology studies'],"['Mini Golf', 'Basketball']",35
+Kyle MacLachlan,"['Mountain biking', 'Railway journeys', 'Radio-controlled model collecting']","['Fishing', 'publishing']",40
+Kenesaw Mountain Landis,"['Animation', 'Snowmobiling', 'Biology', 'Rughooking', 'Model United Nations']",['Road biking'],40
+Kareem Abdul-Jabbar,"['Sea glass collecting', 'Snowmobiling']","['Netball', 'Thru-hiking', 'Aircraft spotting', 'Snowmobiling']",36
+Kathy Acker,"['Radio-controlled model playing', 'Composting', 'Audiophile', 'Metal detecting', 'Eating']","['Auto racing', 'Table tennis playing']",100
+Kit Carson,['Rugby league football'],"['Business', 'Gardening', 'Auto racing', 'Squash']",64
+Kristi Yamaguchi,"['Unicycling', 'Wikipedia editing']","['Debate', 'Video gaming', 'Bridge', 'Lacrosse', 'Comic book collecting']",38
+Kirsten Dunst,['Mountaineering'],['Meditation'],49
+Laura Bush,"['Rugby league football', 'Horseback riding', 'Gongoozling', 'Bridge']","['Mountain biking', 'Hooping', 'People-watching', 'Sculling\xa0or\xa0rowing']",40
+Leon M. Lederman,"['Tea bag collecting', 'Climbing']",['Unicycling'],56
+Louise Erdrich,"['Pinball', 'Airsoft', 'Beauty pageants', 'Lotology\xa0(lottery ticket collecting)']","['Lacrosse', 'Horseback riding', 'Baton twirling']",39
+Lyman Frank Baum,"['Taekwondo', 'Shooting sports', 'Camping', 'Lotology\xa0(lottery ticket collecting)', 'Fishing']","['Video game collecting', 'Powerboat racing', 'Snorkeling', 'Rugby']",86
+Louis Ginzberg,"['Ultimate frisbee', 'Ultimate frisbee']","['Lacrosse', 'Surfing', 'Badminton', 'Skiing']",98
+Morton Downey Jr.,"['Medical science', 'Table tennis playing']","['Running', 'Gold prospecting']",60
+Matt Groening,"['Sociology', 'Rughooking']","['Videography', 'People-watching', 'Tennis', 'Slacklining']",34
+Mortimer J. Adler,"['Axe throwing', 'Model aircraft', 'Volleyball']","['Sea glass collecting', 'Science and technology studies', 'Speedcubing']",88
+Mariah Carey,"['Parkour', 'Swimming', 'Metal detecting', 'Farming', 'Audiophile']","['Pickleball', 'Auto racing', 'Jogging', 'Beekeeping']",54
+Milton Friedman,"['Mountain biking', 'Snowmobiling', 'Fishing', 'Horseback riding', 'Baton twirling']",['Hobby horsing'],62
+Max Steiner,"['Finance', 'Road biking']",['Rock tumbling'],89
+Minoru Yamasaki,"['Motor sports', 'Fingerprint collecting', 'Bridge']","['Car riding', 'Rock painting', 'Flying']",76
+Marlon Brando,"['Jukskei', 'Bus riding', 'Finance', 'Skateboarding', 'Powerlifting']","['Butterfly watching', 'Fishing', 'Walking', 'Boxing', 'People-watching']",54
+Monica Lewinsky,"['Slot car racing', 'Botany', 'Fishkeeping', 'Cycling', 'Field hockey']",['Rughooking'],56
+Meir Kahane,"['Gardening', 'Foraging', 'Motor sports']","['Butterfly watching', 'Knife throwing', 'Scuba diving', 'Marching band', 'Astronomy']",92
+Mel Brooks,"['Hiking/backpacking', 'Pole dancing']","['Ant-keeping', 'Figure Skating']",40
+Murray Gell-Mann,"['Model aircraft', 'Insect collecting', 'Fossicking', 'Hiking/backpacking']","['Archaeology', 'Ticket collecting']",33
+Mance Lipscomb,['Mycology'],"['Volleyball', 'Backpacking', 'Medical science']",28
+Morgan Freeman,['Canoeing'],"['Science and technology studies', 'Table tennis playing', 'Kayaking', 'Whale watching']",40
+Mordecai Kaplan,['Backgammon'],"['People-watching', 'Backpacking', 'Qigong']",30
+Malcolm X,"['Meteorology', 'Climbing', 'Shooting sports', 'Cornhole', 'Gymnastics']","['Cricket', 'Surfing', 'Meteorology', 'Physics']",34
+Nicolas Cage,"['Sculling\xa0or\xa0rowing', 'Bodybuilding', 'Powerlifting', 'Record collecting']","['Rock painting', 'Hobby horsing', 'Scuba diving', 'Rugby league football']",91
+Neil Armstrong,['Figure Skating'],"['Jujitsu', 'Entrepreneurship', 'Stone collecting', 'Airsoft', 'Rughooking']",28
+Noam Chomsky,"['Weightlifting', 'Knife collecting', 'Dolls', 'Eating']","['Caving', 'Motor sports', 'Magic', 'Finance']",67
+Naomi Wolf,"['Herping', 'Snowmobiling']",['Dancing'],62
+Neil Peart,"['Skiing', 'Surfing', 'Sculling\xa0or\xa0rowing', 'Paintball']",['Trainspotting'],75
+Oscar Hammerstein II,"['Bus riding', 'Walking', 'Hobby tunneling', 'Sculling\xa0or\xa0rowing']","['Rughooking', 'Fusilately\xa0(phonecard collecting)']",71
+Paul Cohen,"['Crystals', 'Graffiti']","['Video game collecting', 'Archaeology', 'Snowmobiling', 'Lacrosse', 'Insect collecting']",54
+Pamela Anderson,"['Films', 'Lacrosse', 'Eating', 'Dancing']",['Aerospace'],57
+Paul Robeson,['Crystals'],"['Flag football', 'Digital hoarding', 'Fossil hunting']",89
+Paula Abdul,"['Foraging', 'Walking', 'Running', 'Sun bathing', 'Guerrilla gardening']","['Crystals', 'Vacation']",71
+Poul Anderson,"['Fishing', 'Element collecting', 'Video gaming', 'Lacrosse']","['Automobilism', 'Mountain biking']",68
+Peter Falk,"['Sea glass collecting', 'Baton twirling', 'Skimboarding', 'Horseshoes']","['Book folding', 'Blacksmithing', 'Stone collecting', 'Rughooking']",21
+Paul Desmond,['Herbalism'],"['Shooting sports', 'Table football', 'Flag football', 'Skimboarding']",88
+Philip Glass,"['Crystals', 'Tea bag collecting', 'Foraging', 'Flying disc', 'Public transport riding']","['Digital hoarding', 'Airsoft', 'Ultimate frisbee', 'Gardening', 'Button collecting']",96
+Peter Stuyvesant,"['Animation', 'Wikipedia editing']","['Magnet fishing', 'Wrestling', 'Button collecting', 'Metal detecting']",96
+Peter David,"['Polo', 'Surfing']","['Lotology\xa0(lottery ticket collecting)', 'Mycology', 'Skimboarding']",38
+Paul Auster,"['Paintball', 'Disc golf', 'Exhibition drill', 'Billiards']","['Chemistry', 'Gymnastics']",90
+Peggy Lee,"['Noodling', 'Aircraft spotting', 'Judo']","['Speedcubing', 'Rughooking']",100
+Richard Feynman,"['Roller skating', 'Trainspotting', 'Astronomy', 'Beekeeping', 'Sand art']","['Mushroom hunting/mycology', 'Trainspotting', 'Exhibition drill', 'Element collecting', 'Table football']",34
+Raymond Chandler,"['Airsoft', 'Stone skipping']","['Herping', 'Powerboat racing', 'Jukskei', 'Whale watching']",73
+Ralph Nader,"['Tai chi', 'Insect collecting', 'Weightlifting', 'Hooping', 'Exhibition drill']","['Backgammon', 'Speedcubing', 'Running']",80
+Robert Freitas,['Gymnastics'],['Guerrilla gardening'],75
+Ralph Merkle,['Crystals'],"['Speedcubing', 'Films', 'Magic', 'Laser tag', 'Sports science']",44
+Robert Frost,"['Fishkeeping', 'Tourism', 'Archaeology', 'Mountain biking', 'Taekwondo']",['Rock painting'],33
+Ray Kurzweil,"['Surfing', 'Video game collecting']","['Die-cast toy', 'Element collecting', 'Meteorology', 'Foraging', 'Fossil hunting']",28
+Roger Clemens,"['Metal detecting', 'Horseshoes', 'Audiophile', 'Flying', 'Fingerprint collecting']","['Australian rules football', 'Radio-controlled model playing', 'Bus riding']",82
+Ron Popeil,"['Beauty pageants', 'Notaphily\xa0(banknote collecting)', 'Horseback riding', 'Ultimate frisbee']","['People-watching', 'Kitesurfing', 'Tea bag collecting', 'Science and technology studies', 'Ghost hunting']",47
+Ray Bradbury,"['Car riding', 'Public transport riding', 'Rughooking']","['Leaves', 'Noodling', 'Tea bag collecting', 'Knife collecting', 'Archaeology']",94
+Robert Bloch,"['Surfing', 'Backpacking', 'Horsemanship']","['Fishkeeping', 'Video game collecting']",50
+Rob Reiner,['Netball'],"['Sports science', 'Ice hockey']",98
+Raphael Hawaweeny,['Radio-controlled model playing'],"['Flag football', 'Table football', 'Motor sports']",52
+Rosa Parks,['Qigong'],['Die-cast toy'],31
+Richard Hell,"['Fishkeeping', 'Leaves']","['Running', 'Esports', 'Book folding', 'Flag football', 'Leaves']",29
+Shannon Elizabeth,"['Sea glass collecting', 'Gymnastics']","['Knowledge/word games', 'Fitness', 'Shooting sports', 'Fingerprint collecting', 'Eating']",37
+Stanley Kubrick,"['Axe throwing', 'Table tennis', 'Composting', 'Entrepreneurship', 'Flag football']","['Birdwatching', 'Art collecting', 'Qigong']",60
+Spike Jonze,"['Sports science', 'Herbalism', 'Figure Skating', 'Meteorology', 'Public transport riding']","['Iceboat racing', 'Walking', 'City trip']",29
+Stephen King,"['Flying', 'Table football', 'Fishing', 'Volleyball', 'Archaeology']","['VR gaming', 'Knife throwing']",36
+Simon Flexner,"['Audiophile', 'Botany']","['Mycology', 'Metal detecting', 'Mountain biking']",32
+Sarah Michelle Gellar,"['Meteorology', 'Animation']","['Tennis', 'Judo', 'engineering']",57
+Stanley Milgram,['Amusement park visiting'],"['Esports', 'Cribbage', 'Tennis', 'Jujitsu', 'Notaphily\xa0(banknote collecting)']",82
+Sam Peckinpah,['Rughooking'],"['Field hockey', 'Bus riding', 'Horseshoes', 'Beauty pageants']",65
+Sonny Bono,"['Foraging', 'Caving', 'Bridge']","['Running', 'Meteorology', 'Roller derby', 'Films']",72
+Salma Hayek,['Flag football'],"['Gongoozling', 'Taekwondo']",30
+Seymour Papert,"['Lotology\xa0(lottery ticket collecting)', 'Railway studies']","['Video game collecting', 'Tennis', 'Basketball']",62
+Sam Raimi,"['Ice hockey', 'Netball']","['Metal detecting', 'Boxing', 'Fossicking']",27
+Susan Faludi,"['Cricket', 'Digital hoarding', 'Iceboat racing', 'Mountain biking']","['Sea glass collecting', 'Handball']",67
+Sylvia Plath,"['Backpacking', 'Lotology\xa0(lottery ticket collecting)']","['Notaphily\xa0(banknote collecting)', 'Field hockey', 'Speed skating', 'Insect collecting', 'Photography']",40
+Salman Rushdie,['Australian rules football'],"['Stone collecting', 'Cycling', 'Kayaking', 'Aircraft spotting', 'Field hockey']",81
+Saul Bellow,"['Metal detecting', 'Botany', 'Meditation', 'Laser tag']","['Rugby', 'Unicycling', 'Ghost hunting', 'Vintage cars']",30
+Solomon Schechter,"['Ticket collecting', 'Snowmobiling']","['Car tuning', 'Chemistry', 'Skiing', 'Australian rules football']",26
+Sam Loyd,['Baton twirling'],"['Meteorology', 'Public transport riding', 'Botany', 'Automobilism', 'Table football']",56
+Stephen Sondheim,"['Exhibition drill', 'Sports memorabilia', 'Kitesurfing', 'Mountaineering']","['Snorkeling', 'Sea glass collecting']",83
+Sandra Bullock,['Record collecting'],"['Snowmobiling', 'Dancing', 'Video gaming', 'Snowmobiling', 'Qigong']",62
+Steve Ditko,"['Fitness', 'Renaissance fair', 'Animation']","['Tennis', 'VR gaming']",77
+Steve Ballmer,['Horseback riding'],"['Chemistry', 'Sports science', 'Unicycling', 'Cycling']",56
+Tiffani Thiessen,"['Marbles', 'Skiing']","['Metal detecting', 'Geocaching', 'capoeira', 'Gardening', 'Roundnet']",92
+Thomas Edison,"['publishing', 'Ultimate frisbee', 'Ant-keeping', 'Aircraft spotting', 'Cornhole']","['Entrepreneurship', 'Bridge', 'Aircraft spotting', 'People-watching', 'Beach volleyball']",92
+Tom Clancy,"['Pinball', 'Mushroom hunting/mycology', 'Mountaineering', 'Hobby tunneling']","['Foraging', 'Ballet dancing', 'Carrier pigeons', 'Mountain biking']",87
+Tommy Lee,"['Flying', 'Meditation', 'Camping']","['Axe throwing', 'Mountain biking', 'Exhibition drill', 'Ballet dancing', 'Hobby horsing']",76
+Tom Daschle,"['Shoes', 'Surfing', 'Roundnet']","['Science and technology studies', 'Entrepreneurship', 'Coin collecting']",70
+Thomas McKean,['Skimboarding'],"['Walking', 'Backpacking']",51
+Ted Raimi,"['Physics', 'Metal detecting', 'Book collecting']","['Tai chi', 'Archaeology']",67
+Tom Cruise,"['Lacrosse', 'Guerrilla gardening']",['Mushroom hunting/mycology'],89
+Stonewall Jackson,"['Cooking', 'Axe throwing', 'Guerrilla gardening']","['Hobby tunneling', 'Microscopy', 'Bodybuilding', 'Meteorology']",32
+Vinton Cerf,"['Marching band', 'Qigong', 'Sea glass collecting']","['Films', 'Flower growing']",31
+Victor Borge,"['Baton twirling', 'Die-cast toy', 'Polo', 'Wikipedia editing']","['Skateboarding', 'Ice hockey', 'Metal detecting', 'Business']",35
+Vannevar Bush,"['Auto racing', 'Marbles', 'capoeira', 'Cornhole']","['Fossil hunting', 'Aircraft spotting']",61
+Woody Allen,"['Fossil hunting', 'People-watching']","['Sea glass collecting', 'Swimming']",19
+Walt Disney,"['Films', 'Handball', 'Climbing']","['Kayaking', 'Backgammon', 'Unicycling']",37
+Warren G. Harding,"['Mycology', 'Thru-hiking', 'Caving']","['Mountain biking', 'Video game collecting', 'Rock painting', 'Science and technology studies', 'BMX']",63
+William DeVries,"['Running', 'Swimming', 'Finance', 'Pinball']","['Religious studies', 'Figure skating', 'Snorkeling', 'Skimboarding', 'Hobby tunneling']",73
+Woody Guthrie,"['Religious studies', 'Iceboat racing']",['Lacrosse'],78
+William McKinley,"['Chemistry', 'Axe throwing', 'Flower growing']",['Horseshoes'],32
+William S. Burroughs,"['Fishing', 'Axe throwing', 'Mushroom hunting/mycology']","['Squash', 'Flying disc']",92
+William Seward Burroughs I,"['Netball', 'Fishing', 'Field hockey', 'Frisbee', 'Astronomy']","['Boxing', 'Railway studies']",33
+Will Eisner,"['Sports science', 'Audiophile', 'Motor sports', 'Flag football']",['Surfing'],73
+Winona Ryder,['Herping'],['Iceboat racing'],44
+Yngwie Malmsteen,['Rugby'],"['Trapshooting', 'Ghost hunting', 'Record collecting', 'Automobilism', 'Mycology']",96
+Todd Rundgren,['Flower growing'],"['Farming', 'Carrier pigeons', 'Horseback riding', 'Mushroom hunting/mycology']",99
+Melissa Sue Anderson,['BMX'],"['Guerrilla gardening', 'Vegetable farming', 'Magnet fishing']",73
+Edna Ferber,"['Flower growing', 'Tennis']",['Jukskei'],24
+Edward Teller,"['Railway journeys', 'Lacrosse', 'Farming']","['Axe throwing', 'Meteorology']",60
+Micky Dolenz,"['Qigong', 'Sculling\xa0or\xa0rowing', 'Hiking/backpacking']",['Race walking'],43
+Igor Stravinsky,"['Mini Golf', 'Climbing', 'Butterfly watching', 'Cribbage']","['Field hockey', 'Button collecting', 'Whale watching', 'Jujitsu']",69
+Natalie Portman,['Roller skating'],['Science and technology studies'],77
+Otto Preminger,"['Shoes', 'Snorkeling', 'Roller derby', 'Powerboat racing', 'Field hockey']","['Car tuning', 'Speed skating', 'Surfing']",60
+Michael Bloomberg,"['Beach volleyball', 'Hooping', 'Reading', 'Metal detecting', 'Flying']","['Marching band', 'Table tennis playing', 'Rugby league football', 'Photography']",42
+Phillis Wheatley,"['Laser tag', 'Dancing', 'Taekwondo', 'Field hockey', 'Table tennis']","['Rugby', 'Motor sports', 'Pickleball', 'Beekeeping', 'Aerospace']",48
+Ernest Lawrence,['Metal detecting'],"['Ant farming', 'Slacklining', 'Fishkeeping', 'Rughooking']",73
+Spiro Agnew,['Pinball'],"['Beach volleyball', 'Model aircraft']",68
+Waylon Jennings,['Sun bathing'],['Guerrilla gardening'],62
+Jon Appleton,"['Flag football', 'Lomography']",['Jukskei'],70
+John Philip Sousa,['Fingerprint collecting'],"['Gongoozling', 'Judo', 'Swimming', 'Snowshoeing']",50
+Casimir Funk,['Flying'],"['Shooting sports', 'Tennis']",45
+Jennifer Aniston,"['Tennis', 'Ant-keeping', 'Skiing', 'Archaeology', 'Meteorology']",['Backgammon'],88
+Harry Turtledove,['Fishkeeping'],"['Ant farming', 'Road biking', 'Tourism']",52
+Anton Cermak,"['Beauty pageants', 'Flag football', 'Car riding', 'Mini Golf', 'Handball']","['Lomography', 'Shortwave listening']",53
+Sarah Hughes,['Butterfly watching'],['Speedcubing'],61
+James A. Garfield,"['Cricket', 'Ephemera collecting']","['Taekwondo', 'Billiards', 'Sculling\xa0or\xa0rowing']",20
+Alexander Hamilton,"['Flying disc', 'Element collecting']","['Water sports', 'Crystals']",75
+William Jennings Bryan,"['Notaphily\xa0(banknote collecting)', 'Thru-hiking', 'Herping', 'Debate', 'Films']","['Marbles', 'Polo', 'Backpacking']",88
+Bix Beiderbecke,['Reading'],"['Fitness', 'Exhibition drill', 'Ultimate frisbee', 'Metal detecting']",100
+Clark Gable,['Sports memorabilia'],"['Beach volleyball', 'Powerboat racing']",83
+George S. Patton,"['Swimming', 'Ticket collecting', 'Thru-hiking', 'Ephemera collecting', 'Flower growing']","['Jukskei', 'Guerrilla gardening', 'Water sports', 'Archaeology', 'Jukskei']",50
+Christopher Lambert,"['Fossil hunting', 'Tennis', 'Archaeology', 'Speed skating']","['Roller derby', 'Record collecting', 'Pinball', 'Tai chi', 'Ultimate frisbee']",70
+Cameron Diaz,"['Herping', 'Taekwondo', 'Fossil hunting']","['Flower growing', 'Mountain biking', 'Mini Golf', 'Motor sports', 'Science and technology studies']",51
+Dustin Hoffman,"['Railway studies', 'Exhibition drill', 'Australian rules football', 'Meteorology', 'Leaves']","['Amusement park visiting', 'Polo', 'Bridge', 'Horsemanship', 'Meditation']",69
+Walter Mondale,"['Polo', 'Sculling\xa0or\xa0rowing', 'Wrestling']","['Sculling\xa0or\xa0rowing', 'Cheerleading', 'Thru-hiking', 'Squash', 'Cornhole']",26
+Gillian Anderson,"['Skiing', 'Skimboarding', 'Photography', 'Ephemera collecting', 'Flag football']","['Flower growing', 'Croquet', 'Ant farming', 'Beauty pageants']",97
+Victor Davis Hanson,"['Sculling\xa0or\xa0rowing', 'Element collecting', 'Archaeology', 'Volleyball', 'Camping']","['Metal detecting', 'Handball', 'Skimboarding']",18
+Elizabeth Taylor,"['City trip', 'Rughooking', 'Slot car racing', 'Meteorology']","['Gardening', 'Insect collecting']",71
+Gwyneth Paltrow,['Guerrilla gardening'],"['Airsoft', 'Skimboarding', 'Guerrilla gardening', 'Sculling\xa0or\xa0rowing']",94
+Hubert Humphrey,['Video gaming'],"['Frisbee', 'Video gaming', 'Tennis', 'Horseshoes', 'Sport stacking']",35
+Chaz Bono,"['Pinball', 'Tea bag collecting', 'Metal detecting', 'Lacrosse', 'Astronomy']","['Tourism', 'Ant farming']",42
+Yogi Berra,"['Billiards', 'Archaeology', 'Sculling\xa0or\xa0rowing', 'Mountaineering', 'Entrepreneurship']",['Boxing'],71
+Ava Gardner,"['Jukskei', 'Sun bathing', 'Rafting', 'Auto racing']","['Physics', 'Sculling\xa0or\xa0rowing', 'Disc golf', 'Hobby tunneling']",56
+Leonard Bernstein,['Digital hoarding'],"['Paintball', 'Qigong', 'Video game collecting']",21
+Barbara Stanwyck,"['Sports science', 'engineering', 'Meteorology', 'Auto racing', 'Comic book collecting']","['Running', 'Jujitsu', 'Herping']",30
+Tiger Woods,"['Chemistry', 'Ghost hunting']",['Storm chasing'],89
+Clint Eastwood,"['Geocaching', 'Notaphily\xa0(banknote collecting)', 'Cornhole']","['Iceboat racing', 'Insect collecting', 'Auto detailing', 'Baton twirling']",65
+John B. Anderson,"['Disc golf', 'Rafting', 'Shortwave listening']","['Fishkeeping', 'Sports science', 'Ant-keeping', 'Australian rules football', 'Digital hoarding']",52
+Ross Perot,"['Horseback riding', 'Roundnet']","['Lacrosse', 'Archaeology']",56
+Tom Hanks,"['Insect collecting', 'Table football']",['Mushroom hunting/mycology'],64
+John McCain,"['Microscopy', 'Debate', 'Meteorology', 'Storm chasing', 'Fossil hunting']","['Fishing', 'Photography']",78
+Eddie Blazonczyk,"['Hobby tunneling', 'Frisbee', 'Shooting sports']","['Geocaching', 'Cornhole']",98
+Frankie Yankovic,"['Mushroom hunting/mycology', 'Jujitsu', 'Knife collecting', 'Video gaming', 'Video game collecting']","['Lacrosse', 'Stuffed toy collecting', 'Element collecting']",44
+Robert Altman,"['Baton twirling', 'Rock painting', 'Billiards', 'Mountaineering']","['Figure Skating', 'Sun bathing', 'Farming', 'Ice hockey', 'Chemistry']",76
+Andie MacDowell,"['Beekeeping', 'Table tennis playing', 'Mountain biking', 'Magic']","['Snorkeling', 'Stuffed toy collecting', 'Meditation', 'Sun bathing', 'Hobby tunneling']",28
+Peter Bogdanovich,"['Cornhole', 'Surfing', 'Field hockey', 'Cycling']","['Field hockey', 'Jukskei', 'Ghost hunting']",30
+Billy Joel,"['Pickleball', 'Baton twirling', 'Insect collecting', 'Debate', 'Business']","['Model aircraft', 'Noodling']",42
+Harrison Ford,"['Surfing', 'Audiophile', 'Knife throwing']","['Herping', 'Fossil hunting', 'Business', 'Notaphily\xa0(banknote collecting)', 'Motor sports']",69
+John Huston,['Element collecting'],"['Fitness', 'Table tennis', 'VR gaming']",78
+Mel Gibson,"['Knife collecting', 'Fishkeeping', 'Paintball']","['Crystals', 'Die-cast toy', 'Baton twirling']",63
+Steven Pinker,"['Lacrosse', 'Kayaking']","['Stone collecting', 'Snowmobiling', 'Crystals', 'Cricket', 'Meteorology']",62
+Thora Birch,"['Surfing', 'Car riding', 'Skiing']","['Race walking', 'Car tuning', 'BMX', 'Dolls', 'Swimming']",77
+Charles Fort,"['Airsoft', 'Flag football', 'Cornhole', 'Color guard', 'Ultimate frisbee']","['Ant farming', 'Paintball']",49
+Helen Hunt,"['Herbalism', 'Lacrosse', 'Model aircraft', 'Disc golf']","['Stone skipping', 'Mycology', 'Knife throwing', 'Powerlifting']",98
+Sharon Tate,"['Lacrosse', 'Skateboarding', 'Coin collecting', 'Gardening']","['Aerospace', 'Axe throwing', 'Railway journeys']",92
+Mel Blanc,"['Laser tag', 'Exhibition drill']",['Archaeology'],27
+Frederick T. Frelinghuysen,"['Antiquing', 'Mini Golf']",['Metal detecting'],66
+Lynn Margulis,['Ultimate frisbee'],"['Parkour', 'Science and technology studies', 'Metal detecting', 'Hooping']",36
+Joan Crawford,"['Parkour', 'Tourism', 'Fitness', 'Surfing']",['Geocaching'],24
+Sidney Poitier,"['Flower growing', 'Backgammon', 'Taekwondo', 'Meditation']","['Marching band', 'People-watching', 'Powerboat racing']",32
+Gábor Szegő,['Walking'],"['Fitness', 'Sports memorabilia']",40
+Charlton Heston,"['Fossicking', 'Tennis', 'Leaves', 'Mushroom hunting/mycology']","['Meditation', 'Mycology', 'Flower growing', 'BMX']",31
+Henry Fonda,"['Snorkeling', 'Gardening']","['Audiophile', 'Flag football', 'Shooting sports', 'Flying']",27
+Jeffrey Moussaieff Masson,"['Color guard', 'Storm chasing', 'Gymnastics']","['Aircraft spotting', 'Polo', 'Stone collecting', 'Slacklining']",98
+Valerie Solanas,['Mountain biking'],"['Hobby tunneling', 'Cornhole']",82
+Saul Kripke,"['Reading', 'engineering']",['Fishing'],31
+Goldie Hawn,['Tennis'],"['Sand art', 'Dancing']",68
+Adrienne Rich,"['Water sports', 'Triathlon', 'Reading']",['Squash'],47
+Irving Berlin,"['Table football', 'Scuba diving', 'Jukskei']","['Caving', 'People-watching', 'Rughooking', 'Whale watching', 'Baton twirling']",43
+Nathan Bedford Forrest,"['Hobby tunneling', 'Animation', 'Knife throwing']","['Films', 'Crystals', 'Canoeing', 'Insect collecting', 'Record collecting']",83
+Dan Aykroyd,"['Element collecting', 'Kitesurfing', 'Railway modelling', 'Entrepreneurship', 'Mini Golf']","['Swimming', 'Rugby', 'Water sports', 'Pickleball']",57
+Paul Newman,['Flying'],['Axe throwing'],68
+Kenneth Arrow,['Roundnet'],"['Powerboat racing', 'Science and technology studies', 'Unicycling', 'Art collecting', 'Railway studies']",79
+Norman Granz,"['Snorkeling', 'Skiing', 'Croquet', 'Railway modelling']","['Fishing', 'Roundnet', 'Scuba diving']",59
+Lenny Bruce,"['Hobby horsing', 'Sculling\xa0or\xa0rowing', 'Axe throwing']",['Fishing'],55
+Kate Chopin,"['Walking', 'Flying', 'Color guard', 'Hooping', 'Model aircraft']","['Skiing', 'Automobilism']",37
+Lisa Lopes,['Gardening'],"['Sociology', 'Judo']",50
+Robert Urich,['Fishing'],"['Flag football', 'Beauty pageants', 'Fossil hunting', 'Leaves']",85
+Eugene V. Debs,['Fishkeeping'],['Blacksmithing'],54
+Sinclair Lewis,"['Aircraft spotting', 'Martial arts', 'Beach volleyball', 'Mini Golf']","['Sport stacking', 'Fishkeeping', 'Chemistry', 'Fishing', 'Paintball']",77
+Paul Simon,"['Meditation', 'Fishkeeping', 'Auto racing', 'Lomography', 'Vegetable farming']","['Speed skating', 'Martial arts', 'Science and technology studies', 'Fishkeeping', 'Sociology']",21
+Roger Ebert,"['Frisbee', 'Graffiti', 'Mountain biking']","['Flying', 'Record collecting', 'Leaves', 'Gymnastics', 'Flag football']",31
+William Carlos Williams,"['Beauty pageants', 'Water sports', 'Metal detecting']","['Qigong', 'Fitness', 'Basketball', 'Cricket']",71
+Joan Baez,"['Element collecting', 'Rugby', 'Horseback riding', 'Eating']","['Airsoft', 'Fishkeeping', 'Squash', 'Slot car racing', 'Element collecting']",29
+Charles K. Kao,"['Running', 'Crystals', 'Beach volleyball', 'Bridge']","['Lotology\xa0(lottery ticket collecting)', 'Sand art']",73
+John Wozniak,['Auto racing'],['Cricket'],34
+Aaron Copland,['Exhibition drill'],"['Speedcubing', 'Die-cast toy', 'Jukskei', 'Association football']",90
+Miloš Forman,"['Running', 'Jujitsu', 'Vegetable farming', 'Mountain biking', 'Lotology\xa0(lottery ticket collecting)']",['publishing'],71
+Sidney Altman,"['Stone skipping', 'Badminton']",['Sculling\xa0or\xa0rowing'],73
+Luke Helder,"['Noodling', 'Boxing', 'Button collecting']","['Hobby tunneling', 'Paintball', 'Films', 'Jukskei', 'Martial arts']",96
+John C. Calhoun,"['Renaissance fair', 'Mountain biking']","['Jukskei', 'Comic book collecting', 'Mountain biking', 'Cricket', 'Book collecting']",88
+Stephen Wolfram,['Unicycling'],"['Freestyle football', 'Mushroom hunting/mycology', 'Lacrosse']",61
+Louis Sullivan,"['engineering', 'Aircraft spotting', 'Swimming', 'Figure Skating', 'Vegetable farming']","['Flying', 'Groundhopping']",99
+Krist Novoselic,"['Squash', 'Record collecting', 'Ballet dancing']","['Cribbage', 'Comic book collecting', 'Fusilately\xa0(phonecard collecting)']",24
+Adlai Stevenson II,"['Knowledge/word games', 'Surfing', 'Vintage cars', 'Judo']","['Farming', 'Sculling\xa0or\xa0rowing']",67
+David Blaine,"['City trip', 'Ghost hunting', 'Motor sports', 'Radio-controlled model collecting', 'Triathlon']","['People-watching', 'Audiophile', 'Beauty pageants']",76
+Val Kilmer,"['Record collecting', 'Button collecting', 'Meditation']","['Sports memorabilia', 'Slacklining', 'Jukskei']",46
+Harry Houdini,"['Basketball', 'Climbing']",['Horsemanship'],77
+Frank Gehry,"['Button collecting', 'Debate']","['Wikipedia editing', 'Jukskei', 'Road biking', 'Ephemera collecting']",23
+Tracey Ullman,['Farming'],['Business'],85
+Leonard Nimoy,"['Snorkeling', 'Tennis', 'Radio-controlled model collecting', 'Frisbee']","['Noodling', 'People-watching']",85
+Louis Kahn,"['Running', 'Wikipedia editing']","['Archaeology', 'Fingerprint collecting', 'Speedcubing']",32
+Ub Iwerks,"['Baton twirling', 'Auto racing', 'Wikipedia editing', 'Powerboat racing']","['Dog sport', 'Lacrosse', 'Caving', 'Crystals']",46
+Benny Goodman,"['Films', 'Guerrilla gardening', 'Botany']","['Mountain biking', 'Jujitsu', 'Herping', 'Speedcubing', 'Archaeology']",77
+Otto Harbach,"['Scuba diving', 'Mountain biking', 'Video game collecting', 'Science and technology studies']","['Basketball', 'Archaeology']",35
+Lorenz Hart,['Unicycling'],"['Sea glass collecting', 'Leaves', 'Science and technology studies', 'Axe throwing']",69
+Frederick Loewe,"['Sociology', 'Horsemanship', 'capoeira', 'Climbing']","['Climbing', 'Model aircraft', 'Gardening', 'Videography']",80
+Moss Hart,"['People-watching', 'Airsoft', 'Lotology\xa0(lottery ticket collecting)', 'Canoeing', 'Meditation']","['Dancing', 'Fusilately\xa0(phonecard collecting)', 'Backgammon']",85
+Samuel L. Jackson,"['Knife collecting', 'People-watching', 'Axe throwing', 'Hobby tunneling', 'Water sports']","['Volleyball', 'Field hockey']",80
+Scott Bakula,"['BASE jumping', 'Martial arts', 'Swimming', 'Video gaming', 'Beach volleyball']","['Unicycling', 'Cycling', 'Knowledge/word games', 'Skateboarding']",57
+Andy Razaf,"['Films', 'Archaeology', 'Audiophile']","['Microscopy', 'Roller derby']",60
+Nat Turner,"['Auto racing', 'Car tuning']",['Sports memorabilia'],61
+Whoopi Goldberg,"['Trainspotting', 'Jukskei', 'Herping']","['Tea bag collecting', 'Rock tumbling']",40
+Leslie Nielsen,"['Backgammon', 'Video gaming']","['Eating', 'Reading', 'Lomography', 'Skimboarding', 'Model aircraft']",68
+Barbara McClintock,"['Tai chi', 'Ant-keeping', 'Lotology\xa0(lottery ticket collecting)']",['Mushroom hunting/mycology'],32
+DeWitt Clinton,"['Roller derby', 'Aerospace']","['capoeira', 'Fishkeeping', 'Butterfly watching', 'Fishkeeping']",68
+Gwen Verdon,"['Carrier pigeons', 'Dancing', 'Baton twirling']","['Mountain biking', 'Axe throwing']",90
+Cungagnaq,['Ant farming'],"['Scuba diving', 'Gongoozling', 'Jogging']",54
+Gus Hall,"['Photography', 'Die-cast toy', 'Fishkeeping', 'Auto detailing', 'Stuffed toy collecting']","['Color guard', 'Die-cast toy', 'Record collecting']",98
+Stanley Fish,"['Fishkeeping', 'Disc golf', 'Astronomy', 'Horseback riding']","['Frisbee', 'Flying', 'Handball']",58
+Steven Brust,"['Flag football', 'Marching band', 'Archaeology', 'Sun bathing', 'Knife throwing']","['Frisbee', 'Entrepreneurship', 'Eating']",78
+Jeff Bridges,"['Stone skipping', 'Shooting sports', 'Wikipedia editing']",['Snorkeling'],60
+Judi Bari,"['Mycology', 'Backgammon']",['Judo'],80
+Henry Bergh,"['Element collecting', 'Disc golf', 'Table football', 'Blacksmithing']",['Sand art'],76
+Fred Gwynne,['Mountain biking'],['Trapshooting'],18
+Aaron Burr,"['Photography', 'Speed skating', 'Meteorology', 'Entrepreneurship']","['Australian rules football', 'Noodling', 'Ultimate frisbee', 'Stuffed toy collecting']",32
+James M. Buchanan,"['Microscopy', 'Railway studies', 'Baton twirling', 'Fishing', 'Running']","['Lacrosse', 'Farming', 'Astronomy', 'Jukskei']",30
+Yehudi Menuhin,"['Noodling', 'Fingerprint collecting']","['Gardening', 'Skiing']",25
+Alexander Shulgin,"['Ice hockey', 'Camping', 'Birdwatching']","['Hobby tunneling', 'Mountain biking', 'Sports memorabilia', 'Iceboat racing']",97
+Bernard Baruch,"['Ultimate frisbee', 'Jukskei', 'Paintball']","['Ice hockey', 'Hooping']",62
+Rudolf Carnap,"['Surfing', 'Poker', 'Skiing', 'Tennis']",['Slacklining'],69
+Thomas Szasz,"['engineering', 'Trainspotting', 'Photography', 'Die-cast toy']","['Flower growing', 'Backpacking', 'Carrier pigeons']",24
+Wright brothers,"['Railway journeys', 'Hiking/backpacking', 'Jujitsu']","['Composting', 'Beauty pageants', 'Videography', 'Sculling\xa0or\xa0rowing']",31
+Lawrence Welk,"['Beach volleyball', 'Railway studies', 'Amusement park visiting', 'Race walking']","['Slot car racing', 'Whale watching', 'Volleyball']",82
+Judy Garland,"['Fishkeeping', 'Qigong', 'Ant farming']","['Camping', 'Rafting', 'Cribbage', 'Leaves', 'Sports science']",63
+Ron Howard,"['People-watching', 'Ghost hunting', 'Qigong', 'Comic book collecting']","['Canoeing', 'Flying disc', 'Sports science', 'Camping']",69
+Liza Minnelli,['Color guard'],"['Tennis', 'Pickleball', 'Audiophile', 'Baton twirling', 'Bodybuilding']",62
+Sam Houston,"['Backgammon', 'Hiking/backpacking', 'Chemistry', 'Airsoft', 'Baton twirling']",['Croquet'],79
+Alanis Morissette,"['Hooping', 'Vintage cars']","['Shuffleboard', 'Sun bathing', 'Polo', 'Car tuning', 'Ephemera collecting']",52
+Leslie Groves,"['Car tuning', 'Car tuning']","['Field hockey', 'Mycology', 'Butterfly watching', 'Lotology\xa0(lottery ticket collecting)']",85
+Sergey Brin,"['Airsoft', 'Ghost hunting', 'Public transport riding', 'Crystals']","['Audiophile', 'Finance', 'Microscopy']",60
+Gene Rayburn,"['Fishkeeping', 'Ghost hunting', 'Biology', 'Vintage cars', 'Iceboat racing']",['Scuba diving'],80
+Greg Ginn,"['Model United Nations', 'Jukskei', 'Jukskei', 'Paintball', 'Scuba diving']","['Baton twirling', 'Wikipedia editing']",55
+Dave Mustaine,"['Fishkeeping', 'Axe throwing', 'Fossicking']","['Archaeology', 'Butterfly watching', 'Tea bag collecting', 'Handball']",85
+Jamshied Sharifi,"['Surfing', 'Climbing']","['Sculling\xa0or\xa0rowing', 'Figure Skating', 'Climbing', 'Herbalism', 'Frisbee']",100
+John Wayne Gacy,"['Science and technology studies', 'Lacrosse', 'Crystals', 'Graffiti']","['Billiards', 'Graffiti', 'Fishkeeping', 'Figure Skating', 'Magnet fishing']",86
+Sylvester Stallone,"['Knife collecting', 'Iceboat racing', 'Tea bag collecting']","['Flower growing', 'Airsoft', 'Ultimate frisbee', 'Geocaching']",60
+Tony Williams,"['Dog sport', 'Slacklining']","['Thru-hiking', 'Motor sports', 'Shuffleboard', 'Rugby']",45
+David Ellefson,"['Fishkeeping', 'Field hockey', 'Sports memorabilia', 'Judo']","['Art collecting', 'Backpacking', 'Snorkeling']",66
+Yuliy Borisovich Briner,"['Kitesurfing', 'Fossil hunting']",['Kayaking'],18
+Danielle Steel,"['Tai chi', 'Skimboarding', 'Motor sports', 'Lacrosse', 'Gymnastics']","['Hobby tunneling', 'Boxing', 'Pickleball', 'Water sports']",61
+Bret Harte,"['Cornhole', 'Ephemera collecting', 'Gardening', 'Beauty pageants']","['Animation', 'Graffiti', 'Flag football', 'Backgammon']",59
+Gore Vidal,"['Surfing', 'Cornhole']",['Qigong'],81
+William Wyler,['Metal detecting'],"['Lotology\xa0(lottery ticket collecting)', 'Archaeology']",31
+Elizabeth Patterson Bonaparte,"['Roller derby', 'Comic book collecting', 'Microscopy', 'Flag football']","['Table tennis', 'Audiophile', 'Knife throwing']",20
+Jérôme Napoléon Bonaparte,"['Business', 'Pole dancing', 'Horseback riding', 'Archaeology']","['Boxing', 'Exhibition drill', 'Herbalism', 'Finance', 'Coin collecting']",47
+Jerome Napoleon Bonaparte II,"['Model United Nations', 'Water sports', 'Fishing', 'Knife throwing', 'Swimming']","['Gardening', 'Flag football']",73
+Charles Joseph Bonaparte,"['Beauty pageants', 'Fishkeeping', 'Lacrosse', 'Art collecting', 'Airsoft']","['Foraging', 'Fishkeeping', 'Metal detecting', 'Cornhole', 'Knife throwing']",83
+Warren Beatty,"['Bridge', 'Color guard', 'Photography', 'Horsemanship']","['Tennis', 'Running', 'Sand art', 'Tea bag collecting', 'Die-cast toy']",60
+Walter Matthau,"['Radio-controlled model playing', 'Digital hoarding', 'Metal detecting', 'Science and technology studies', 'Axe throwing']","['Powerboat racing', 'Fishing']",85
+George McGovern,"['Fossil hunting', 'Foraging']","['Esports', 'Beach volleyball', 'Railway modelling']",75
+Jon Bon Jovi,['Stone skipping'],"['Tennis', 'Beauty pageants', 'Audiophile', 'Roller derby', 'Meditation']",32
+Captain Beefheart,"['Lacrosse', 'Ephemera collecting']","['Axe throwing', 'Gardening', 'Shortwave listening', 'Table football']",68
+Meryl Streep,['Fossil hunting'],"['Gardening', 'Lacrosse', 'Ghost hunting', 'Beauty pageants']",26
+Jane Fonda,"['Surfing', 'Axe throwing', 'Exhibition drill']","['Ephemera collecting', 'Volleyball', 'Airsoft']",57
+Sissy Spacek,['Photography'],"['Mycology', 'Ice hockey', 'Hiking/backpacking', 'Fossicking']",70
+Peter Lorre,"['Walking', 'Speed skating', 'Metal detecting', 'Video gaming', 'Notaphily\xa0(banknote collecting)']","['Crystals', 'Mountain biking', 'Bridge', 'Judo', 'VR gaming']",35
+Muhammad Ali,"['Skiing', 'Hobby horsing', 'City trip', 'Rughooking', 'Hobby tunneling']",['Airsoft'],40
+Chuck Palahniuk,['Exhibition drill'],"['Parkour', 'Flag football', 'Mountain biking', 'Gardening', 'Lomography']",42
+William Luther Pierce,['Pinball'],"['Leaves', 'Cooking', 'Tour skating', 'Bridge']",42
+Jacqueline Kennedy Onassis,['Iceboat racing'],"['Boxing', 'Mountain biking']",24
+Rosemary Clooney,"['Mountaineering', 'Herping', 'Guerrilla gardening', 'Ephemera collecting', 'Antiquing']","['Pole dancing', 'Microscopy', 'Geocaching', 'Carrier pigeons', 'Fingerprint collecting']",42
+Fred Astaire,"['Cricket', 'Axe throwing', 'Archaeology']",['Reading'],28
+Asia Carrera,"['Roller derby', 'Caving', 'People-watching', 'Book folding', 'Meteorology']","['Metal detecting', 'Hiking/backpacking', 'Magic', 'Rugby']",40
+Edward Hopper,['Snorkeling'],"['Judo', 'BASE jumping', 'Color guard']",54
+Zoë Wanamaker,"['Scuba diving', 'Tea bag collecting', 'Rafting', 'Entrepreneurship']","['Stone collecting', 'Comic book collecting', 'Thru-hiking', 'Cornhole']",60
+Persi Diaconis,"['Physics', 'Renaissance fair', 'Sculling\xa0or\xa0rowing']","['Science and technology studies', 'Surfing', 'Foraging', 'Lacrosse']",36
+Jesse Ventura,['Sports science'],"['Jukskei', 'Foraging', 'Video gaming']",45
+James Meredith,"['Fingerprint collecting', 'Lacrosse', 'Insect collecting', 'Backgammon', 'Camping']","['Motor sports', 'Field hockey', 'Model aircraft']",79
+Buzz Aldrin,"['Gardening', 'Cheerleading', 'Mushroom hunting/mycology', 'Volleyball', 'Fishkeeping']",['Noodling'],18
+Stephen F. Austin,"['Parkour', 'Leaves', 'Record collecting', 'Leaves']","['Snowmobiling', 'Shuffleboard', 'Rughooking']",80
+>>>>>>> Stashed changes

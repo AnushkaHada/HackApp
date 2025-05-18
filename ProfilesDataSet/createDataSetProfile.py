@@ -68,5 +68,5 @@ merge_df = pd.DataFrame({
     "Attendance": attendance
 })
 
-# save to csv
+
 merge_df.to_csv('profile_dataset.csv', index = False) # so it does not add extra column with number
