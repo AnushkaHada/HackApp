@@ -8,21 +8,21 @@
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
-    <a href="/" style="text-decoration:none;">
-        <button class="btn btn-left" type="button">HomePage</button>
+    <a href="/">
+        <button class="btn btn-left" type="button"><span>← HomePage</span></button>
     </a>
     <h1>Look at our Slugs</h1>
 
     <form method="get" style="margin-bottom: 2em;">
-        <label for="type">Filter by Type:</label>
-        <select name="type" id="type" onchange="this.form.submit()">
+        <label for="type" class="dropdown">Filter by Type:</label>
+        <select name="type" id="type" class="styledselect" onchange="this.form.submit()">
             <option value="">All Types</option>
             {% for type in types %}
                 <option value="{{ type }}" {% if type == selected_type %}selected{% endif %}>{{ type }}</option>
             {% endfor %}
         </select>
         {% if selected_type %}
-            <a href='/search'>Clear Filter</a>
+            <a href='/search' class="filterclean">Clear Filter</a>
         {% endif %}
     </form>
 
@@ -49,7 +49,11 @@
                 <p><strong>College:</strong> {{ user.College }}</p>
                 <p><strong>Attendance:</strong> {{ user.Attendance }}</p>
                 <p><strong>Bio:</strong> {{ user.Biography }} </p>
-                <p><button class="btn" type="contact">Let's Chat!</p>
+                <p><a href="/chat/{{ user.Name }}">
+                    <button class="btn" type="contact">
+                        <span>Let's Chat!</span>
+                    </button>
+                </a></p>
             </div>
         </div>
         {% endfor %}

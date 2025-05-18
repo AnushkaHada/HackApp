@@ -5,12 +5,18 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'MyFont';
+  src: url('../fonts/Quesha-gndR.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Body */
 body {
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family: 'MyFont', sans-serif;
   text-align: center;
-  font-size: 105%;
-  line-height: 1.6;
+  font-size: 1.5rem;
   background: linear-gradient(
     to right,
     #fca311,   /* warm orange */
@@ -21,8 +27,9 @@ body {
     #0077b6,    /* deep blue */
     #0058b6
   );
-  min-height: 100vh;
+  min-height: 200vh;
   margin: 0;
+  line-height: normal;
 }
 
 .double {
@@ -46,10 +53,10 @@ h1 {
 }
 
 .content-box {
-  background: white;
-  border-radius: 12px;
+  background: rgb(241, 241, 241);
+  border-radius: 20px;
   word-spacing: normal;
-  padding: 40px;
+  padding: 50px;
   max-width: 900px;
   margin: 60px auto; /* center horizontally, add spacing from top */
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* soft shadow */
@@ -75,13 +82,13 @@ h1 {
   background-color: #f0f0f0;
   border-radius: 16px;
   padding: 5px;
-  box-shadow: 8px 8px 16px #bfbfbf, -8px -8px 16px #ffffff; /* Light and dark shadows */
+  box-shadow: 8px 8px 16px #b6eeda, -8px -8px 16px #9d9d9d; /* Light and dark shadows */
   transition: box-shadow 0.3s;
   width: 100%;
   max-width: 600px;
 }
 .card:hover {
-  box-shadow: 12px 12px 24px #bfbfbf, -12px -12px 24px #ffffff; /* Larger shadows on hover */
+  box-shadow: 12px 12px 24px #404040, -12px -12px 24px #5e5e5e; /* Larger shadows on hover */
 }
 
 .card-header {
@@ -104,11 +111,60 @@ footer {
   background: #333;
   color: #fff;
   text-align: center;
-  padding: 15px 0;
+  padding: 10px;
   margin-top: 40px;
 }
 
+/* Style the label */
+.dropdown {
+  font-family: 'MyFont', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+
+.styledselect {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(4px);
+  font-size: 1rem;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.styledselect:hover {
+  border-color: #0077b6;
+  box-shadow: 0 4px 10px rgba(0, 119, 182, 0.15);
+}
+
+.styledselect:after {
+  content: '▼';
+  float: right;
+  margin-left: -20px;
+  pointer-events: none;
+}
+
+.filterclean {
+  display: inline-block;
+  margin-left: 12px;
+  font-size: 1.2rem;
+  color: #0077b6;
+  text-decoration: none;
+}
+
+.filterclean:hover {
+  text-decoration: underline;
+}
+
+
 .btn-left {
+  text-decoration:none;
   position: fixed;
   top: 30px;
   right:500px;
@@ -126,6 +182,7 @@ footer {
   box-sizing: border-box;
 }
 .btn {
+  font-family: 'MyFont', sans-serif;
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: button;
   background-color: #000;
@@ -157,7 +214,6 @@ footer {
   box-sizing: border-box;
   color: #000;
   display: block;
-  font-weight: 900;
   overflow: hidden;
   padding: 1.8rem 5rem;
   position: relative;
