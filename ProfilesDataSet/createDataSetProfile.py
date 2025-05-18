@@ -36,8 +36,7 @@ def pick_random_college():
         "Santa Cruz County Regional Occupation Program",
         "UCSC - University of California at Santa Cruz",
         "Santa Cruz County Office of Education",
-        "Did not attend college",
-        "N/A"
+        "Did not attend college"
     ]
     attendance = ["undergraduate", "masters", "phd", "N/A"]
     
@@ -55,7 +54,8 @@ current_skills = [pick_random_hobby() for i in range(count)]
 wanted_skills = [pick_random_hobby() for i in range(count)]
 
 age = [pick_age() for i in range(count)]
-
+results = [ pick_random_college() for _ in range(count) ]
+colleges, attendance = zip(*results)
 
 
 # new dataframe
@@ -63,9 +63,10 @@ merge_df = pd.DataFrame({
     "Name": names,
     "Current_Skills": current_skills,
     "Wanted_skills": wanted_skills,
-    "Age" : age
+    "Age" : age,
+    "College": colleges,
+    "Attendance": attendance
 })
 
-
-
+# save to csv
 merge_df.to_csv('profile_dataset.csv', index = False) # so it does not add extra column with number
