@@ -4,13 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SlugsShareSkills Search</title>
+    <title>SluggySkills Search</title>
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
     <h1>Look at our Slugs</h1>
 
     <!-- Card(s) start here -->
+    
+    <form method="get" style="margin-bottom: 2em;">
+        <label for="type">Filter by Type:</label>
+        <select name="type" id="type" onchange="this.form.submit()">
+            <option value="">All Types</option>
+            {% for type in types %}
+                <option value="{{ type }}" {% if type == selected_type %}selected{% endif %}>{{ type }}</option>
+            {% endfor %}
+        </select>
+        {% if selected_type %}
+            <a href='/search'>Clear Filter</a>
+        {% endif %}
+    </form>
+
     <div class="card-container">
         {% for user in users %}
         <div class = "card">
@@ -20,7 +34,6 @@
             </div>
             <div class="card-body">
                 <img src="{% static 'profile_pics/' %}{{ user.profile_pic }}" alt="Profile Picture" class="profile-img">
-                <p><strong>Bio:</strong> hi :3</p>
                 <p><strong>Current Skills:</strong>
                     {% for skill in user.Current_Skills%}
                         {{ skill }}{% if not forloop.last %}, {% endif %}
@@ -34,7 +47,8 @@
                 <p><strong>Age:</strong> {{ user.Age }}</p>
                 <p><strong>College:</strong> {{ user.College }}</p>
                 <p><strong>Attendance:</strong> {{ user.Attendance }}</p>
-                <p><button type="contact">Let's Chat!</p>
+                <p><strong>Bio:</strong> {{ user.Biography }} </p>
+                <p><button class="btn" type="contact">Let's Chat!</p>
             </div>
         </div>
         {% endfor %}

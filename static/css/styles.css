@@ -7,49 +7,60 @@
 
 /* Body */
 body {
-  font-family: Arial, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 105%;
   line-height: 1.6;
-  background: #f9f9f9;
-  color: #333;
+  background: linear-gradient(
+    to right,
+    #fca311,   /* warm orange */
+    #fcd700,   /* golden yellow */
+    #fdf6b2,   /* soft cream */
+    #a8e6cf,   /* mint green */
+    #00c6ff,   /* bright blue */
+    #0077b6,    /* deep blue */
+    #0058b6
+  );
+  min-height: 100vh;
+  margin: 0;
+}
+
+.double {
+  line-height: 2 ;
 }
 
 /* Header */
 header {
   background: #4a90e2;
   color: #fff;
-  padding: 20px 0;
+  padding: 20px;
   text-align: center;
 }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  padding-top: 10px;
-}
-
-nav a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-/* Hero Section */
-.hero {
-  background: #e6f0fa;
-  padding: 40px 20px;
+h1 {
+  text-shadow: 2px 4px 8px #00c6ff;
+  text-shadow: 4px 6px 10px #ffffff;
+  margin-top: 40px;
   text-align: center;
+  padding: 10px;
 }
+
+.content-box {
+  background: white;
+  border-radius: 12px;
+  word-spacing: normal;
+  padding: 40px;
+  max-width: 900px;
+  margin: 60px auto; /* center horizontally, add spacing from top */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* soft shadow */
+  text-align: center; /* optional */
+}
+
 
 /* Content Section */
 .card-container {
   display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns:repeat(auto-fit, minmax(350px, 1fr));
   gap: 1rem;
   padding: 1rem;
   max-width: 1200px;
@@ -67,6 +78,7 @@ nav a:hover {
   box-shadow: 8px 8px 16px #bfbfbf, -8px -8px 16px #ffffff; /* Light and dark shadows */
   transition: box-shadow 0.3s;
   width: 100%;
+  max-width: 600px;
 }
 .card:hover {
   box-shadow: 12px 12px 24px #bfbfbf, -12px -12px 24px #ffffff; /* Larger shadows on hover */
@@ -94,4 +106,66 @@ footer {
   text-align: center;
   padding: 15px 0;
   margin-top: 40px;
+}
+
+/*all button code is from https://ui-buttons.web.app/glow-button*/
+.btn,
+.btn *,
+.btn :after,
+.btn :before,
+.btn:after,
+.btn:before {
+  border: 0 solid;
+  box-sizing: border-box;
+}
+.btn {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: button;
+  background-color: #000;
+  background-image: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0 auto;
+  -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+  padding: 0;
+}
+.btn:disabled {
+  cursor: default;
+}
+.btn:-moz-focusring {
+  outline: auto;
+}
+.btn svg {
+  display: block;
+  align-items: center;
+}
+.btn [hidden] {
+  display: none;
+}
+.btn {
+  background: linear-gradient(90deg, rgb(103, 202, 211), rgb(224, 232, 80));
+  border-radius: 999px;
+  box-sizing: border-box;
+  color: #000;
+  display: block;
+  font-weight: 900;
+  overflow: hidden;
+  padding: 1.8rem 5rem;
+  position: relative;
+  text-transform: uppercase;
+}
+.btn span {
+  background: #1e293b;
+  border-radius: 999px;
+  color: #fff;
+  display: grid;
+  inset: 5px;
+  place-items: center;
+  position: absolute;
+  transition: background 0.3s;
+}
+.btn:hover span {
+  background: none;
 }
