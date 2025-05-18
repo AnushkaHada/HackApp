@@ -108,6 +108,13 @@ footer {
   margin-top: 40px;
 }
 
+.btn-left {
+  position: fixed;
+  top: 30px;
+  right:500px;
+  z-index: 500;
+}
+
 /*all button code is from https://ui-buttons.web.app/glow-button*/
 .btn,
 .btn *,

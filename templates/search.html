@@ -8,10 +8,11 @@
     <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
+    <a href="/" style="text-decoration:none;">
+        <button class="btn btn-left" type="button">HomePage</button>
+    </a>
     <h1>Look at our Slugs</h1>
 
-    <!-- Card(s) start here -->
-    
     <form method="get" style="margin-bottom: 2em;">
         <label for="type">Filter by Type:</label>
         <select name="type" id="type" onchange="this.form.submit()">
