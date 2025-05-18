@@ -1,12 +1,11 @@
 import pandas as pd
 import random
+
 names_df = pd.read_csv('americans_by_descent.csv')
-names_df.head()
 #print(names_df.columns)
 
 # Hobbies DF
 hobbies_df = pd.read_csv('hobbylist.csv')
-hobbies_df.head(5)
 #print(hobbies_df.columns)
 
 names = names_df["name"]
@@ -43,6 +42,7 @@ def pick_random_college():
     attendance = ["undergraduate", "masters", "phd", "N/A"]
     
     college = random.choice(colleges)
+
     if college == "Did not attend college":
         return college, "N/A"
     else:
@@ -67,5 +67,5 @@ merge_df = pd.DataFrame({
 })
 
 
-print(merge_df.head())
+
 merge_df.to_csv('profile_dataset.csv', index = False) # so it does not add extra column with number
