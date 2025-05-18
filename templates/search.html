@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SlugsShareSkills Search</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+    <h1>Look at our Slugs</h1>
+
+    <!-- Card(s) start here -->
+    <div class="card-container">
+        {% for user in users %}
+        <div class = "card">
+            <div class="card-header">
+                <h3>Hi, I am</h3>
+                <h2>{{ user.Name }}</h2>
+            </div>
+            <div class="card-body">
+                <img src="{% static 'profile_pics/' %}{{ user.profile_pic }}" alt="Profile Picture" class="profile-img">
+                <p><strong>Bio:</strong> hi :3</p>
+                <p><strong>Current Skills:</strong>
+                    {% for skill in user.Current_Skills%}
+                        {{ skill }}{% if not forloop.last %}, {% endif %}
+                    {% endfor %}
+                </p>
+                <p><strong>Wanted Skills:</strong>
+                    {% for skill in user.Wanted_skills%}
+                        {{ skill }}{% if not forloop.last %}, {% endif %}
+                    {% endfor %}
+                </p>
+                <p><strong>Age:</strong> {{ user.Age }}</p>
+                <p><strong>College:</strong> {{ user.College }}</p>
+                <p><strong>Attendance:</strong> {{ user.Attendance }}</p>
+                <p><button type="contact">Let's Chat!</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    Take me back to the<a href="/"> homepage </a> please!
+</body>
+</html>
