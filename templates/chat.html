@@ -1,0 +1,15 @@
+<img src="{% static 'profile_pics/' %}{{ user.profile_pic }}" alt="{{ user.Name }}">
+<h2>Chatting with {{ user.Name }}</h2>
+<div class="chat-container">
+    <div class="chat-box">
+        {% for message in messages %}
+            <div class="message {{ message.sender }}">
+                <strong>{{ message.sender }}:</strong> {{ message.text }}
+            </div>
+        {% endfor %}
+    </div>
+    <form method="post" class="message-form">
+        {% csrf_token %}
+        <input type="text" name="message" placeholder="Type your message here..." required>
+        <button type="submit">Send</button>
+    </form>

@@ -23,4 +23,5 @@ urlpatterns = [
     path('', views.homagepage),
     path('about/', views.aboutpage),
     path('search/', views.searchpage),
+    path('chat/<slug:username_slug>/', views.chatpage),
 ]

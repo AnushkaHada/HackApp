@@ -21,10 +21,21 @@
                 <option value="{{ type }}" {% if type == selected_type %}selected{% endif %}>{{ type }}</option>
             {% endfor %}
         </select>
-        {% if selected_type %}
+
+        <label for="attendance" class="dropdown" style="margin-left:2em;">Filter by Attendance:</label>
+        <select name="attendance" id="attendance" class="styledselect" onchange="this.form.submit()">
+            <option value="">All Attendance</option>
+            {% for attend in attendances %}
+                <option value="{{ attend }}" {% if att == selected_attendance %}selected{% endif %}>{{ att }}</option>
+            {% endfor %}
+        </select>
+
+        {% if selected_type or selected_attendance %}
             <a href='/search' class="filterclean">Clear Filter</a>
         {% endif %}
     </form>
+
+    
 
     <div class="card-container">
         {% for user in users %}
@@ -49,7 +60,7 @@
                 <p><strong>College:</strong> {{ user.College }}</p>
                 <p><strong>Attendance:</strong> {{ user.Attendance }}</p>
                 <p><strong>Bio:</strong> {{ user.Biography }} </p>
-                <p><a href="/chat/{{ user.Name }}">
+                <p><a href="/chatpage/{{ user.slug }} ? name={{ user.Name|urlencode }}&pic={{ user.profile_pic }}">
                     <button class="btn" type="contact">
                         <span>Let's Chat!</span>
                     </button>
