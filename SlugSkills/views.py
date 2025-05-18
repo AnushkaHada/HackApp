@@ -12,7 +12,7 @@ def aboutpage(request):
     return render(request, 'about.html')
 
 def searchpage(request):
-    datapath = os.path.join(settings.BASE_DIR, 'static', 'profile_dataset.csv')
+    datapath = os.path.join(settings.BASE_DIR, 'static', 'test_profile_dataset.csv')
     pfp_dir = os.path.join(settings.BASE_DIR,'static', 'profile_pics')
     pfp_files = [f for f in os.listdir(pfp_dir) if not f.startswith('.')]
     
