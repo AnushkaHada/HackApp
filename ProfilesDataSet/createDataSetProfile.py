@@ -70,3 +70,4 @@ merge_df = pd.DataFrame({
 
 
 merge_df.to_csv('profile_dataset.csv', index = False) # so it does not add extra column with number
+
